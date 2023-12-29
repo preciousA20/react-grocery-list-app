@@ -1,0 +1,15 @@
+body{
+  margin: 20px;
+  background-color: rgb(8, 18, 21);
+  color: white;
+}
+.App h1{
+  text-transform: uppercase;
+  margin-left: 30px;
+  color: blue;
+}
+.app2{
+    align-items: center;
+    justify-content: center;
+    columns: red;
+}

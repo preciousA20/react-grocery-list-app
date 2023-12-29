@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item": "Success' application",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "item": "Martina' application",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "item": "Ushie Joy's determination",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "item": "Our unrelenting strength are unveiled to the world",
+      "checked": true
+    }
+  ]
+}
